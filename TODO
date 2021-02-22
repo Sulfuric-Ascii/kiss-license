@@ -1,0 +1,4 @@
+Find some way to avoid printing output if a pkg does not exist.
+ Current: kiss-license nonexistant-pkg
+  ERROR Package 'nonexistant-pkg' not in any repository
+  license file missing
